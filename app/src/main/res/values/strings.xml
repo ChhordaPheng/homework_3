@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ConntactApp</string>
+    <string name="phone">Phone:</string>
+    <string name="email">Email:</string>
+    <string name="fname">First Name</string>
+    <string name="lname">Last Name</string>
+</resources>
